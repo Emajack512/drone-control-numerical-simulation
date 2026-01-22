@@ -8,4 +8,4 @@ This folder contains the MATLAB code used for multirotor control and numerical s
 3. Run:
 
 ```matlab
-run("main/sumalacion_dron_main.m")
+run("main/simulacion_dron_main.m")
